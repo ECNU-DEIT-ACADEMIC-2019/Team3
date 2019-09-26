@@ -20,6 +20,7 @@ Students interaction refers to how to learn, including learning methods and lear
 >>>The second is a mixed classroom. Some teachers will let students learn online and offline learning in the form of flipping classrooms. The specific learning method is decided by the course teacher.
 (2)the manner
 >>>The media is divided into client-side media. Students can learn by means of mobile phones, tablets, computers, etc. The media has video, audio, and electronic documents.
+
 **> 5.Experience**
 
 >>    Platform experience. Users' experience of the platform is mainly reflected in the design, resources and interaction of the platform. So we will display information from platform home page design, program, Learning content, and activity design, Learning resources, interaction design, registration way, charge level etc. Several aspects carries on the analysis of Chinese university MOOC platform experience, we mainly from the perspective of learners, in-depth analysis of E - Learning platform of learners experience.
