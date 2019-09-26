@@ -1,6 +1,16 @@
 # Team3
 #MOOC platform
 **> 1.Environment**
+###Platform environment
+It is a supportive environment for the whole process of online learning and teaching
+Environment building tools include performance tools, communication tools, student participation tools, course release tools, course management tools, hardware/software and security/performance (focus on the first five tools)
+1. Performance tools: navigation and help, calendar/task, asynchronous synchronization (support download of synchronous and asynchronous learning materials, such as PPT and other materials released by teachers)
+2. Communication tools: discussion forum, live broadcast by teachers (teachers can communicate with students in real time via live broadcast), and course email (email reminder will be provided when course content is released)
+3. Student participation tools: self-evaluation and mutual evaluation (for example, each student must evaluate the work of 3-5 other students), student files (mainly including: video and test completion mark, simple display of course progress, test completion mark)
+4. Hardware/software: server, database and browser requirements, APP and mobile service support
+5. Security/performance: user login security and access speed, error prevention and reporting
+Development trends:
+Support learners to carry out adaptive learning according to their own learning characteristics and styles; Support the individualized and multi-mode curriculum construction of teachers; Building learning communities through social software to achieve extensive social interaction; Make full use of open education resources (OERs) and support open sharing of courses; Use a variety of new technologies, such as artificial intelligence, augmented reality, posture computing, learning analysis, mobile terminals, to build immersive, interactive, experience-oriented, personalized learning environment.
 
 **> 2.Knowledge,Skills,Attitude**
 
