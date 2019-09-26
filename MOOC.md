@@ -49,7 +49,7 @@ The platform is open to the general public and can be registered or imported by 
 >>(3)Diversification of course learning resources
 >>(4)The richness of interactive functions of the platform
 
->6.Interact object
+**>6.Interact object**
 
   Through the analysis of the platform of Chinese universities, we can analyze the interactive objects from three elements:       teachers, learners and others.
   
