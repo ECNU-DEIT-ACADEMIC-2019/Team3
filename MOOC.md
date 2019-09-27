@@ -21,6 +21,15 @@ Support learners to carry out adaptive learning according to their own learning 
 >>(3)Attitude: platform learning can enhance students' awareness of independent learning, information literacy and cooperative spirit.
 
 **> 3.Behavior**
+>>MOOC, known as massive open online platforms (MOOC), have a variety of behaviors that can occur on top of them.In my opinion, it can be divided into the following categories: 1.The teaching behavior of teachers on the platform2. Learning behavior of learners on MOOC platform;3. Learners' interactive behaviors on the platform;4. Learners' evaluation behavior on the platform.I will analyze these behaviors in detail.
+
+>>1.Teachers' teaching behaviors on the platform.Teachers are the transmitter of knowledge. Teachers teach relevant course contents to learners through video teaching on the platform.Relevant course materials are uploaded to the MOOC platform for learners to preview before class or review after class.
+
+>>2. Learning behavior of learners on the platform.Learners enter the MOOC platform through registration and choose courses they are interested in on the platform, mainly through video. Video can be suspended and the learning speed can be controlled by learners.
+
+>>3. Learners' interactive behaviors on the platform.When learners have completed the corresponding course units, they can interact on the platform.Interaction can be divided into three types : (1) interaction between learners and teachers.Learners can send doubts and confusion points in the course learning on the platform, and the teacher will answer them. (2) interaction between learners.After learning the course, learners discuss the content of the course in the discussion section, communicate their views and places of interest with classmates in the community, and also discuss their doubts with classmates, so as to gain a deep understanding of the course.
+
+>>4. Learners' evaluation behavior on the platform.When learning a course, learners need to complete relevant homework and unit evaluation after each class.After completing a course, you need to conduct a final assessment on the platform to determine whether you are qualified or not.
 
 **> 4.Interaction**
 Students interaction refers to how to learn, including learning methods and learning media. 
@@ -81,3 +90,25 @@ The platform is open to the general public and can be registered or imported by 
 （3）Others
   
   Others here include some of the best in the industry, as well as people who are interested in a particular field. For example, Microsoft  Artificial Intelligence (AI) courses on the platform of MOOCs are not full-time teachers, but some researchers of Microsoft Asia Research Institute, which belong to the industry leader. Another example is a course of "Artificial Intelligence and Information Society" offered by Peking University. Its teachers put some materials in the comprehensive discussion area. These materials come from people who are interested in Artificial Intelligence. From this we can see that others here refer to anyone who can provide knowledge to learners except teachers and learners.
+  
+ **>7.Disadvantages of MOOC platform:**
+ >>As a relatively large online learning platform, MOOC platform has prominent advantages, such as openness, low threshold, students can choose courses they are interested in, and students can adjust their learning progress freely.But it also has some disadvantages.The disadvantages of MOOC platform are as follow：
+ 
+>>1.there are many MOOC courses, but the quality of some courses is difficult to guarantee.Among the many MOOCs, the quality varies.The quality of MOOCs created by different schools, teachers and makers varies.The quality of MOOCs offered by some well-known universities is high, but the quality of MOOCs in general is not.These poor quality courses do not interest students.
+
+>>2. low credit acceptance.At present, MOOC still lacks a complete school register, degree and management system.Even though some schools recognize students' credit for studying MOOCs, most enterprises in the society are suspicious of MOOC learning and do not recognize MOOC credits.Even though most MOOC course completers can obtain the corresponding certificates, due to factors such as the imperfect examination mechanism and the lack of good reputation of certificates, the certificates issued by universities to MOOC learners are not recognized by the job market, but only regarded as a sign for learners to complete MOOC learning.
+
+>>3. low completion rate and poor learning effect.As things stand, there is still a big problem with the completion rate of MOOCs.Pennsylvania's 2012 survey found that the average completion rate for MOOCs was just 4%.Statistics show that less than 10 percent of students who enroll in MOOC programs actually complete the course.Huang zhonghua studied students from three universities in zhejiang, zhejiang university of technology, zhejiang institute of science and technology and zhejiang foreign languages university.According to the study, only 21% of students have paid attention to MOOCs. Among those who have used MOOCs, 60% of students spend one or two hours a week on MOOCs, and participation on MOOCs is generally low.Meanwhile, according to the statistics of MOOC learning effect evaluation, 91% of students think MOOC learning effect is poor, while 5% think MOOC learning effect is average.This shows that MOOC is not effective in the classroom application of universities, and there are big problems.
+
+>>4. authenticity of learning is difficult to guarantee.MOOCs use an online learning model, in which students complete their studies and homework online and are assessed online.In the final assessment, students only need a computer and the Internet to complete, without the invigilation of teachers, students only need to fill in the letter of good faith commitment or even do not need to fill in the examination, the authenticity of this examination method cannot be guaranteed.
+
+
+ **>8.Advice:**
+>>Although MOOC platform has great advantages, its disadvantages are obvious enough. How to effectively correct the disadvantages of MOOC platform is a process that needs reflection.Here are some of my personal Suggestions.
+
+>>(1) professional production team.We should professionalize the MOOC development team, and build a MOOC construction team with teachers, experts, students and platform developers. Team members should do their part to build high-quality educational resources.At the same time, the content design of MOOC courses in Chinese universities must highlight local characteristics and increase the interest of courses.
+
+>>(2) improve the credit management system.Degree is the foundation, while MOOC is the architecture. Only when the foundation is solid can the architecture be stable and solid, and only when the system is perfect can MOOC develop steadily.The most urgent task is to solve the problems of MOOC credit certification, online learning mode, examination and evaluation criteria.China should establish a complete system to promote the development of moocs in China and among universities.
+
+>>(3) make the course more interesting.Enhance the interest of mooc, build a number of mooc courses with strong interest, in the course construction to increase the characteristics, so as to attract students, ensure that students continue to learn, promote students to actively and actively learn, improve the interest of students continue to learn, to ensure the quality of learning.
+>>(4) improve platform infrastructure construction.Only when the infrastructure is perfect can more people learn on the platform.Only when the facilities are perfect can the real effectiveness of learning be guaranteed.
