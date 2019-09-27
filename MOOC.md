@@ -1,9 +1,7 @@
-# Team3
-#MOOC platform
+# Team3 MOOC platform
 
-**> 1.Environment**
+## 1.Environment
 
-###Platform environment
 It is a supportive environment for the whole process of online learning and teaching
 Environment building tools include performance tools, communication tools, student participation tools, course release tools, course management tools, hardware/software and security/performance (focus on the first five tools)
 1. Performance tools: navigation and help, calendar/task, asynchronous synchronization (support download of synchronous and asynchronous learning materials, such as PPT and other materials released by teachers)
@@ -14,7 +12,7 @@ Environment building tools include performance tools, communication tools, stude
 Development trends:
 Support learners to carry out adaptive learning according to their own learning characteristics and styles; Support the individualized and multi-mode curriculum construction of teachers; Building learning communities through social software to achieve extensive social interaction; Make full use of open education resources (OERs) and support open sharing of courses; Use a variety of new technologies, such as artificial intelligence, augmented reality, posture computing, learning analysis, mobile terminals, to build immersive, interactive, experience-oriented, personalized learning environment.
 
-**> 2.Knowledge,Skills,Attitude**
+## 2.Knowledge,Skills,Attitude
 
 >>(1)Knowledge: the platform provides courses of various types and fields, and learners can choose courses according to their interests and needs
 
@@ -22,7 +20,7 @@ Support learners to carry out adaptive learning according to their own learning 
 
 >>(3)Attitude: platform learning can enhance students' awareness of independent learning, information literacy and cooperative spirit.
 
-**> 3.Behavior**
+## 3.Behavior**
 
 >>MOOC, known as massive open online platforms (MOOC), have a variety of behaviors that can occur on top of them.In my opinion, it can be divided into the following categories: 1.The teaching behavior of teachers on the platform2. Learning behavior of learners on MOOC platform;3. Learners' interactive behaviors on the platform;4. Learners' evaluation behavior on the platform.I will analyze these behaviors in detail.
 
@@ -34,7 +32,7 @@ Support learners to carry out adaptive learning according to their own learning 
 
 >>4. Learners' evaluation behavior on the platform.When learning a course, learners need to complete relevant homework and unit evaluation after each class.After completing a course, you need to conduct a final assessment on the platform to determine whether you are qualified or not.
 
-**> 4.Interaction**
+## 4.Interaction
 
 Students interaction refers to how to learn, including learning methods and learning media. 
 (1)the manner
@@ -44,7 +42,7 @@ Students interaction refers to how to learn, including learning methods and lear
 (2)the manner
 >>>The media is divided into client-side media. Students can learn by means of mobile phones, tablets, computers, etc. The media has video, audio, and electronic documents.
 
-**> 5.Experience**
+## 5.Experience
 
 >>    Platform experience. Users' experience of the platform is mainly reflected in the design, resources and interaction of the platform. So we will display information from platform home page design, program, Learning content, and activity design, Learning resources, interaction design, registration way, charge level etc. Several aspects carries on the analysis of Chinese university MOOC platform experience, we mainly from the perspective of learners, in-depth analysis of E - Learning platform of learners experience.
 
@@ -83,7 +81,7 @@ The platform is open to the general public and can be registered or imported by 
 >>(3)Diversification of course learning resources
 >>(4)The richness of interactive functions of the platform
 
-**>6.Interact object**
+## 6.Interact object
 
   Through the analysis of the platform of Chinese universities, we can analyze the interactive objects from three elements:       teachers, learners and others.
   
@@ -99,7 +97,7 @@ The platform is open to the general public and can be registered or imported by 
   
   Others here include some of the best in the industry, as well as people who are interested in a particular field. For example, Microsoft  Artificial Intelligence (AI) courses on the platform of MOOCs are not full-time teachers, but some researchers of Microsoft Asia Research Institute, which belong to the industry leader. Another example is a course of "Artificial Intelligence and Information Society" offered by Peking University. Its teachers put some materials in the comprehensive discussion area. These materials come from people who are interested in Artificial Intelligence. From this we can see that others here refer to anyone who can provide knowledge to learners except teachers and learners.
   
- **>7.Disadvantages of MOOC platform:**
+## 7.Disadvantages of MOOC platform
  >>As a relatively large online learning platform, MOOC platform has prominent advantages, such as openness, low threshold, students can choose courses they are interested in, and students can adjust their learning progress freely.But it also has some disadvantages.The disadvantages of MOOC platform are as follow：
  
 >>1.there are many MOOC courses, but the quality of some courses is difficult to guarantee.Among the many MOOCs, the quality varies.The quality of MOOCs created by different schools, teachers and makers varies.The quality of MOOCs offered by some well-known universities is high, but the quality of MOOCs in general is not.These poor quality courses do not interest students.
@@ -111,7 +109,7 @@ The platform is open to the general public and can be registered or imported by 
 >>4. authenticity of learning is difficult to guarantee.MOOCs use an online learning model, in which students complete their studies and homework online and are assessed online.In the final assessment, students only need a computer and the Internet to complete, without the invigilation of teachers, students only need to fill in the letter of good faith commitment or even do not need to fill in the examination, the authenticity of this examination method cannot be guaranteed.
 
 
- **>8.Advice:**
+## 8.Advice
 >>Although MOOC platform has great advantages, its disadvantages are obvious enough. How to effectively correct the disadvantages of MOOC platform is a process that needs reflection.Here are some of my personal Suggestions.
 
 >>(1) professional production team.We should professionalize the MOOC development team, and build a MOOC construction team with teachers, experts, students and platform developers. Team members should do their part to build high-quality educational resources.At the same time, the content design of MOOC courses in Chinese universities must highlight local characteristics and increase the interest of courses.
