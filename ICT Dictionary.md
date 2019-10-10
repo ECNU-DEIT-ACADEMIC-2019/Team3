@@ -31,3 +31,11 @@ The E-Learning platform designed by our team is mainly used for educational tech
 +  Series of professional studies: the latest developments in educational technology and related fields (policy reports, event meetings, theoretical practice studies, etc.), journal monographs, related links
 + Self-knowledge construction: Through ordinary search and study, learners can collect their own knowledge or new learning knowledge to form their own knowledge base. In addition, take notes in the process of learning and record the self-recognition.
 The platform has a behavior tracking function, which is personalized based on the learner's behavior on the platform (search history, browsing history, favorite records, etc.).
+## interact objects
+We think our dictionary is for the convenience of interested in "education technology" knowledge of people and set up, so we think interacting objects can be divided into two kinds： 
+### 1 human to human and human to content
+The first is everyone interaction, learners can onto the platform to interact with other learners, we set up a special discussion, for learners to communicate knowledge, thoughts and share.In addition, learners can interact with the backend management to give feedback to the platform management.
+### 2 human-computer interaction
+The second is human-computer interaction. Learners can interact with the machine according to their interests on the platform, so as to acquire relevant knowledge.
+## interact
+The platform we built is called the educational technology dictionary, and the interaction mainly happens on the platform.So the way we interact is online.Learners interact with the platform through search, query and other forms according to the platform.At the same time, they can also interact with other learners through online discussion and sharing of insights. Finally, they can share their Suggestions and problems to platform managers through comments.So as to promote the occurrence of interactive process and the acquisition of knowledge.
