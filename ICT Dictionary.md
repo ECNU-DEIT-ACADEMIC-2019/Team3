@@ -42,7 +42,7 @@ The second is human-computer interaction. Learners can interact with the machine
 The platform we built is called the educational technology dictionary, and the interaction mainly happens on the platform.So the way we interact is online.Learners interact with the platform through search, query and other forms according to the platform.At the same time, they can also interact with other learners through online discussion and sharing of insights. Finally, they can share their Suggestions and problems to platform managers through comments.So as to promote the occurrence of interactive process and the acquisition of knowledge.
 
 ## Experience：
-###Convenience:
+### Convenience:
 The biggest advantage of the platform is its convenience.Learners can interact with interactive objects through various ways on the platform to promote the learning process.The biggest feeling for learners to the platform is convenience. There are a lot of materials on the network, and it is difficult for learners to find authoritative and professional explanations.Through the platform, learners can search directly without going to the Internet, because it has been sorted out on the platform, which saves a lot of time for learners, and learners can feel the convenient use of the platform, so as to promote their pleasant learning.
-###Professional:
+### Professional:
 The members of the platform are all educational technology professionals who have a deep understanding of professional knowledge. They will also review the knowledge when building the platform, so as to ensure the authority of knowledge.In addition, the platform interface has designed a linked program, where learners can find relatively authoritative explanations, college information of the major, and interpretation by relevant experts on the platform, which has a good sense of user experience.Learners can happily find what they want to know on the platform.
