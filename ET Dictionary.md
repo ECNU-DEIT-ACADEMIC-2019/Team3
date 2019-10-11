@@ -52,4 +52,4 @@ The members of the platform are all educational technology professionals who hav
 The APP and platform provides the explanation of terms of educational technology ,latest developments and journal monographs,so users can learn professional knowledge and skills of Educational Technology from the APP.
 ### Attitude:
 Platform learning can enhance students' awareness of independent learning, information literacy .
-
+![image](https://github.com/Ouyang-Huiying/Image/blob/master/picture.png)
