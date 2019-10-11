@@ -53,3 +53,4 @@ The APP and platform provides the explanation of terms of educational technology
 ### Attitude:
 Platform learning can enhance students' awareness of independent learning, information literacy .
 ![image](https://github.com/Ouyang-Huiying/Image/blob/master/picture.png)
+![image](https://github.com/Ouyang-Huiying/Image/blob/master/factors.png)
